@@ -328,17 +328,6 @@ Real-World Projects
 
 ## GitHub Analytics
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddysudhir0113%26show_icons=true%26hide_border=true%26title_color=6F4E37%26icon_color=A47551%26text_color=4E342E%26bg_color=F5E6D3%26border_radius=20)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113%26layout=compact%26hide_border=true%26title_color=6F4E37%26text_color=4E342E%26bg_color=F5E6D3%26border_radius=20)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=reddysudhir0113%26hide_border=true%26background=F5E6D3%26ring=8D6E63%26fire=A47551%26currStreakLabel=6F4E37%26sideLabels=4E342E%26currStreakNum=4E342E%26sideNums=4E342E%26dates=795548%26border_radius=20)
-
-<br/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113%26bg_color=F5E6D3%26color=4E342E%26line=8D6E63%26point=6F4E37%26area=true%26hide_border=true%26radius=20)
 
