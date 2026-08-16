@@ -1,21 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6F4E37,50:8D6E63,100:D7B49E&amp;height=220&amp;section=header&amp;text=Sudhir%20Reddy&amp;fontSize=52&amp;fontColor=FFF8F0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Python%20%26%20Django%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=58&amp;descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4E342E,50:795548,100:D7B49E&amp;height=230&amp;section=header&amp;text=Sudhir%20Reddy&amp;fontSize=54&amp;fontColor=FFF8F0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Python%20and%20Django%20Developer%20%7C%20Problem%20Solver&amp;descAlignY=60&amp;descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=8D6E63&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Engineering+Student+%40+PESITM+Shivamogga;Building+with+Python+%26+Django;Sharpening+DSA+one+problem+at+a+time;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=795548&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Engineering+Student+at+PESITM+Shivamogga;Building+with+Python+and+Django;Sharpening+DSA+one+problem+at+a+time;Turning+ideas+into+real+projects;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/reddysudhir0113">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-LeetCode
+<img src="https://img.shields.io/badge/LeetCode-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" />
 </a>
 
 <br/><br/>
@@ -24,75 +22,94 @@ LeetCode
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
 ## About Me
 
+<p>
+A software-focused engineering student from
+<b>PES Institute of Technology and Management, Shivamogga</b>.
+</p>
+
+<p>
+I enjoy building practical web applications, exploring backend development,
+and improving my problem-solving skills through consistent practice.
+</p>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### Developer Profile
+
+</div>
+
+I am currently focused on:
+
+* Backend development with Python and Django
+* REST API development
+* Database-driven applications
+* JavaScript and React
+* Data Structures and Algorithms
+* Building practical projects
+* Learning through experimentation
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### Current Focus
+
 </div>
 
 <table width="100%">
-<tr>
-
-<td width="55%" valign="top">
-
-### Profile
-
-Engineering student at **PES Institute of Technology and Management (PESITM), Shivamogga**, focused on software development, backend systems, and problem solving.
-
-Currently building applications with **Python, Django, JavaScript, React, and SQL**, while strengthening Data Structures and Algorithms fundamentals.
-
-I enjoy turning ideas into practical applications and continuously improving through real-world projects.
-
-</td>
-
-<td width="45%" valign="top">
-
-### Core Focus
-
-<table width="100%">
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="35" />
+<img src="https://skillicons.dev/icons?i=python" width="32"/>
 </td>
-<td>Python and Django</td>
+<td>Python Development</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=django" width="35" />
+<img src="https://skillicons.dev/icons?i=django" width="32"/>
 </td>
-<td>Backend Development</td>
+<td>Django and REST APIs</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js,react" width="35" />
+<img src="https://skillicons.dev/icons?i=react" width="32"/>
 </td>
 <td>JavaScript and React</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="35" />
+<img src="https://skillicons.dev/icons?i=mysql" width="32"/>
 </td>
 <td>SQL and Databases</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git,github" width="35" />
+<img src="https://skillicons.dev/icons?i=git,github" width="32"/>
 </td>
 <td>Git and GitHub</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="35" />
-</td>
-<td>Linux</td>
 </tr>
 
 </table>
@@ -106,7 +123,7 @@ I enjoy turning ideas into practical applications and continuously improving thr
 
 <div align="center">
 
-## Tech Stack
+## Technology Stack
 
 <br/>
 
@@ -116,7 +133,7 @@ I enjoy turning ideas into practical applications and continuously improving thr
 
 <br/><br/>
 
-### Frameworks and Development
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=django,react,vite" />
 
@@ -128,11 +145,13 @@ I enjoy turning ideas into practical applications and continuously improving thr
 
 <br/><br/>
 
-### Tools and Platforms
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -148,35 +167,51 @@ I enjoy turning ideas into practical applications and continuously improving thr
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### LeetCode Practice Platform
 
-A web application designed to organize and practice LeetCode problems through topics and a structured roadmap.
+</div>
+
+A frontend application designed to organize programming practice through topics, problem lists, and a structured roadmap.
 
 <br/>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,js,vite" />
 
 <br/><br/>
 
 <a href="https://reddysudhir0113.github.io/leetcode/">
-View Project
+<img src="https://img.shields.io/badge/Live_Project-795548?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FFF8F0" />
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### AI Document Management System
 
-A document management application combining OCR and AI-based document classification to organize and process uploaded documents.
+</div>
+
+A document management application combining OCR and AI-based classification to process and organize uploaded documents.
 
 <br/>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django" />
 
 <br/><br/>
 
-Tesseract OCR · Gemini AI · PyPDF2
+`Tesseract OCR` `Gemini AI` `PyPDF2`
+
+</div>
 
 </td>
 
@@ -186,25 +221,41 @@ Tesseract OCR · Gemini AI · PyPDF2
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### Trip Management System
 
-A Django-based application designed to manage trip-related information and operations.
+</div>
+
+A Django-based application designed to manage trip information and related operations through a structured web interface.
 
 <br/>
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,js" />
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### Budget Tracker
 
-A lightweight web application for tracking expenses and maintaining a simple personal budget.
+</div>
+
+A simple web application for tracking expenses and maintaining a personal budget.
 
 <br/>
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</div>
 
 </td>
 
@@ -221,7 +272,7 @@ A lightweight web application for tracking expenses and maintaining a simple per
 <br/>
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-LeetCode Profile
+<img src="https://img.shields.io/badge/LeetCode_Profile-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" />
 </a>
 
 <br/><br/>
@@ -229,11 +280,27 @@ LeetCode Profile
 <table width="90%">
 
 <tr>
-<td align="center">Data Structures</td>
-<td align="center">Algorithms</td>
-<td align="center">Python</td>
-<td align="center">SQL</td>
-<td align="center">Problem Solving</td>
+
+<td align="center">
+<b>Data Structures</b>
+</td>
+
+<td align="center">
+<b>Algorithms</b>
+</td>
+
+<td align="center">
+<b>Python</b>
+</td>
+
+<td align="center">
+<b>SQL</b>
+</td>
+
+<td align="center">
+<b>Problem Solving</b>
+</td>
+
 </tr>
 
 </table>
@@ -244,7 +311,7 @@ LeetCode Profile
 
 <div align="center">
 
-## Currently Learning
+## Development Roadmap
 
 <br/>
 
@@ -254,23 +321,11 @@ LeetCode Profile
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="45" />
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 
-<br/>
+<br/><br/>
 
-Python
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=django" width="45" />
-
-<br/>
-
-Django
+<b>Python</b>
 
 </td>
 
@@ -278,33 +333,11 @@ Django
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=django" width="45" />
+<img src="https://skillicons.dev/icons?i=django" width="48"/>
 
-<br/>
+<br/><br/>
 
-Django REST
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-REST APIs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="45" />
-
-<br/>
-
-SQL
+<b>Django</b>
 
 </td>
 
@@ -312,19 +345,11 @@ SQL
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=sqlite" width="45" />
+<img src="https://skillicons.dev/icons?i=django" width="48"/>
 
-<br/>
+<br/><br/>
 
-Databases
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-Data Structures
+<b>REST APIs</b>
 
 </td>
 
@@ -332,7 +357,27 @@ Data Structures
 
 <td align="center">
 
-Real-World Projects
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+
+<br/><br/>
+
+<b>Databases</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+<b>DSA</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+<b>Real Projects</b>
 
 </td>
 
@@ -356,9 +401,7 @@ Real-World Projects
 
 <td align="center">
 
-<strong>01</strong>
-
-<br/><br/>
+### 01
 
 Become a strong<br/>
 Python and Django Developer
@@ -367,9 +410,7 @@ Python and Django Developer
 
 <td align="center">
 
-<strong>02</strong>
-
-<br/><br/>
+### 02
 
 Improve<br/>
 DSA and Problem Solving
@@ -378,20 +419,16 @@ DSA and Problem Solving
 
 <td align="center">
 
-<strong>03</strong>
+### 03
 
-<br/><br/>
-
-Build Real-World<br/>
-Applications
+Build<br/>
+Real-World Applications
 
 </td>
 
 <td align="center">
 
-<strong>04</strong>
-
-<br/><br/>
+### 04
 
 Strengthen<br/>
 REST API Development
@@ -400,9 +437,7 @@ REST API Development
 
 <td align="center">
 
-<strong>05</strong>
-
-<br/><br/>
+### 05
 
 Start my<br/>
 Developer Career
@@ -419,18 +454,16 @@ Developer Career
 
 <div align="center">
 
-## Connect With Me
+## Connect
 
 <br/>
 
 <a href="https://github.com/reddysudhir0113">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-LeetCode
+<img src="https://img.shields.io/badge/LeetCode-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" />
 </a>
 
 <br/><br/>
@@ -439,6 +472,6 @@ LeetCode
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D7B49E,50:8D6E63,100:6F4E37&amp;height=120&amp;section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D7B49E,50:8D6E63,100:4E342E&amp;height=130&amp;section=footer" />
 
 </div>
