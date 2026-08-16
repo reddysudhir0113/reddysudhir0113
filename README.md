@@ -9,20 +9,18 @@
 <br/><br/>
 
 <a href="https://github.com/reddysudhir0113">
-<img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&amp;logo=github&amp;logoColor=F5E6D3&amp;labelColor=3E2723" />
+GitHub
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-<img src="https://img.shields.io/badge/LeetCode-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=3E2723" />
-</a>
-
-<a href="https://www.google.com/maps/search/?api=1&amp;query=Shivamogga%2C+India">
-<img src="https://img.shields.io/badge/Shivamogga%2C%20India-6F4E37?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=F5E6D3&amp;labelColor=3E2723" />
+LeetCode
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,sqlite,mysql,git,github,linux,docker&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,sqlite,mysql,git,github,linux,docker" />
 
 </div>
 
@@ -59,7 +57,7 @@ I enjoy turning ideas into practical applications and continuously improving thr
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="35" />
 </td>
-<td>Python &amp; Django</td>
+<td>Python and Django</td>
 </tr>
 
 <tr>
@@ -73,21 +71,21 @@ I enjoy turning ideas into practical applications and continuously improving thr
 <td align="center">
 <img src="https://skillicons.dev/icons?i=js,react" width="35" />
 </td>
-<td>JavaScript &amp; React</td>
+<td>JavaScript and React</td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="35" />
 </td>
-<td>SQL &amp; Databases</td>
+<td>SQL and Databases</td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git,github" width="35" />
 </td>
-<td>Git &amp; GitHub</td>
+<td>Git and GitHub</td>
 </tr>
 
 <tr>
@@ -114,25 +112,25 @@ I enjoy turning ideas into practical applications and continuously improving thr
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
 
 <br/><br/>
 
-### Frameworks & Development
+### Frameworks and Development
 
-<img src="https://skillicons.dev/icons?i=django,react,vite&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=django,react,vite" />
 
 <br/><br/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 
 <br/><br/>
 
-### Tools & Platforms
+### Tools and Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
 </div>
 
@@ -156,12 +154,12 @@ A web application designed to organize and practice LeetCode problems through to
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,js,vite&amp;perline=3" />
+<img src="https://skillicons.dev/icons?i=react,js,vite" />
 
 <br/><br/>
 
 <a href="https://reddysudhir0113.github.io/leetcode/">
-<img src="https://img.shields.io/badge/View_Project-8D6E63?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=F5E6D3&amp;labelColor=3E2723" />
+View Project
 </a>
 
 </td>
@@ -174,11 +172,11 @@ A document management application combining OCR and AI-based document classifica
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django&amp;perline=2" />
+<img src="https://skillicons.dev/icons?i=python,django" />
 
 <br/><br/>
 
-`Tesseract OCR` `Gemini AI` `PyPDF2`
+Tesseract OCR · Gemini AI · PyPDF2
 
 </td>
 
@@ -194,7 +192,7 @@ A Django-based application designed to manage trip-related information and opera
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,js&amp;perline=6" />
+<img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,js" />
 
 </td>
 
@@ -206,7 +204,7 @@ A lightweight web application for tracking expenses and maintaining a simple per
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&amp;perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </td>
 
@@ -223,7 +221,7 @@ A lightweight web application for tracking expenses and maintaining a simple per
 <br/>
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-<img src="https://img.shields.io/badge/LeetCode-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=3E2723" />
+LeetCode Profile
 </a>
 
 <br/><br/>
@@ -255,31 +253,45 @@ A lightweight web application for tracking expenses and maintaining a simple per
 <tr>
 
 <td align="center">
+
 <img src="https://skillicons.dev/icons?i=python" width="45" />
+
 <br/>
+
 Python
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 <img src="https://skillicons.dev/icons?i=django" width="45" />
+
 <br/>
+
 Django
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 <img src="https://skillicons.dev/icons?i=django" width="45" />
+
 <br/>
+
 Django REST
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 REST APIs
+
 </td>
 
 </tr>
@@ -287,29 +299,41 @@ REST APIs
 <tr>
 
 <td align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+
 <br/>
+
 SQL
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 <img src="https://skillicons.dev/icons?i=sqlite" width="45" />
+
 <br/>
+
 Databases
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 Data Structures
+
 </td>
 
 <td>→</td>
 
 <td align="center">
+
 Real-World Projects
+
 </td>
 
 </tr>
@@ -319,8 +343,6 @@ Real-World Projects
 </div>
 
 ---
-
-
 
 <div align="center">
 
@@ -333,38 +355,58 @@ Real-World Projects
 <tr>
 
 <td align="center">
+
 <strong>01</strong>
+
 <br/><br/>
+
 Become a strong<br/>
-Python/Django Developer
+Python and Django Developer
+
 </td>
 
 <td align="center">
+
 <strong>02</strong>
+
 <br/><br/>
+
 Improve<br/>
-DSA &amp; Problem Solving
+DSA and Problem Solving
+
 </td>
 
 <td align="center">
+
 <strong>03</strong>
+
 <br/><br/>
+
 Build Real-World<br/>
 Applications
+
 </td>
 
 <td align="center">
+
 <strong>04</strong>
+
 <br/><br/>
+
 Strengthen<br/>
 REST API Development
+
 </td>
 
 <td align="center">
+
 <strong>05</strong>
+
 <br/><br/>
+
 Start my<br/>
 Developer Career
+
 </td>
 
 </tr>
@@ -382,16 +424,14 @@ Developer Career
 <br/>
 
 <a href="https://github.com/reddysudhir0113">
-<img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&amp;logo=github&amp;logoColor=F5E6D3&amp;labelColor=3E2723" />
+GitHub
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-<img src="https://img.shields.io/badge/LeetCode-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=3E2723" />
+LeetCode
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=reddysudhir0113&amp;style=flat-square&amp;color=6F4E37&amp;label=PROFILE+VIEWS" />
 
 <br/><br/>
 
