@@ -251,33 +251,6 @@ A simple web application for tracking expenses and managing personal budgets.
 
 <div align="center">
 
-## GitHub Statistics
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reddysudhir0113&show_icons=true&theme=default&hide_border=true&title_color=18181B&icon_color=18181B&text_color=52525B" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113&layout=compact&theme=default&hide_border=true&title_color=18181B&text_color=52525B" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=reddysudhir0113&theme=default&hide_border=true&ring=18181B&fire=18181B&currStreakLabel=18181B" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Activity
-
-<img src="https://raw.githubusercontent.com/reddysudhir0113/reddysudhir0113/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
 
 ## Connect
 
