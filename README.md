@@ -18,7 +18,7 @@
 
 </td>
 
-<td width="18"></td>
+<td width="14"></td>
 
 <td align="center">
 
@@ -27,13 +27,35 @@
 </a>
 
 </td>
+
+<td width="14"></td>
+
+<td align="center">
+
+<a href="mailto:hello@example.com">
+<img src="https://img.shields.io/badge/EMAIL-4A2C22?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFF8F0">
+</a>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=reddysudhir0113&amp;label=PROFILE%20VIEWS&amp;color=6F4E37&amp;style=for-the-badge&amp;labelColor=2B1B16">
+<img src="https://img.shields.io/github/followers/reddysudhir0113?label=FOLLOWERS&amp;style=for-the-badge&amp;color=6F4E37&amp;labelColor=2B1B16">
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,sqlite,mysql,git,github,linux&amp;perline=11">
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2B1B16,50:795548,100:C9A58D&amp;height=3&amp;width=1000" />
 </div>
 
 <br>
@@ -64,6 +86,7 @@ I enjoy taking an idea, turning it into a working application, and learning some
 <img src="https://img.shields.io/badge/PRIMARY-PYTHON%20%7C%20DJANGO-6F4E37?style=flat-square">
 <img src="https://img.shields.io/badge/FOCUS-BACKEND-795548?style=flat-square">
 <img src="https://img.shields.io/badge/PRACTICE-DSA-C19A7B?style=flat-square">
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4A2C22?style=flat-square">
 
 </td>
 
@@ -313,6 +336,33 @@ A lightweight application for tracking expenses and maintaining a simple persona
 </tr>
 
 </table>
+
+<br>
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+<div align="center">
+
+<h2>GitHub Analytics</h2>
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reddysudhir0113&amp;show_icons=true&amp;hide_border=true&amp;title_color=C9A58D&amp;icon_color=C9A58D&amp;text_color=F5E6D3&amp;bg_color=2B1B16&amp;border_radius=14">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113&amp;layout=compact&amp;hide_border=true&amp;title_color=C9A58D&amp;text_color=F5E6D3&amp;bg_color=2B1B16&amp;border_radius=14">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reddysudhir0113&amp;hide_border=true&amp;background=2B1B16&amp;ring=C9A58D&amp;fire=C9A58D&amp;currStreakLabel=F5E6D3&amp;sideLabels=F5E6D3&amp;currStreakNum=F5E6D3&amp;sideNums=F5E6D3&amp;dates=A47551&amp;border_radius=14">
+
+<br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113&amp;bg_color=2B1B16&amp;color=C9A58D&amp;line=C9A58D&amp;point=F5E6D3&amp;area=true&amp;hide_border=true&amp;radius=14">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=reddysudhir0113&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7">
+
+</div>
 
 <br>
 
@@ -620,22 +670,30 @@ Begin my developer journey
 
 <br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2B1B16,50:795548,100:C9A58D&amp;height=3&amp;width=1000" />
+</div>
+
+<br>
+
 <!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:2B1B16,45:4E342E,75:795548,100:C9A58D&amp;height=120&amp;section=footer&amp;text=Learn%20.%20Build%20.%20Improve&amp;fontSize=25&amp;fontColor=FFF8F0" />
-
-<br>
+<h3>Let&#8217;s Connect</h3>
 
 <a href="https://github.com/reddysudhir0113">
-GitHub
+<img src="https://img.shields.io/badge/GITHUB-3B241C?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0">
 </a>
-
-  •  
-
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-LeetCode
+<img src="https://img.shields.io/badge/LEETCODE-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
 </a>
+<a href="mailto:hello@example.com">
+<img src="https://img.shields.io/badge/EMAIL-4A2C22?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFF8F0">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:2B1B16,45:4E342E,75:795548,100:C9A58D&amp;height=120&amp;section=footer&amp;text=Learn%20.%20Build%20.%20Improve&amp;fontSize=25&amp;fontColor=FFF8F0" />
 
 </div>
