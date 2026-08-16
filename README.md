@@ -1,36 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2B1B16,35:4A2C22,70:795548,100:C9A58D&amp;height=230&amp;section=header&amp;text=Sudhir%20Reddy&amp;fontSize=54&amp;fontColor=FFF8F0&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Engineering%20Student%20%7C%20Python%20and%20Django%20Developer&amp;descAlignY=61&amp;descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:241510,35:3A2119,65:5D3A2E,100:B98B70&amp;height=250&amp;section=header&amp;text=Sudhir%20Reddy&amp;fontSize=58&amp;fontColor=FFF8F0&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&amp;descAlignY=61&amp;descSize=18" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=795548&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+backend+systems;Creating+practical+web+applications;Sharpening+DSA+one+problem+at+a+time;Learning+through+real+projects" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=850&amp;color=795548&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Engineering+Student+at+PESITM;Python+and+Django+Developer;Building+real+world+applications;Learning+through+projects;Turning+ideas+into+software" alt="Typing Animation">
 
 <br><br>
 
-<table>
-<tr>
-<td align="center">
+<img src="https://img.shields.io/badge/ENGINEERING_STUDENT-3A2119?style=for-the-badge&amp;labelColor=241510&amp;color=795548">
+
+<img src="https://img.shields.io/badge/PYTHON_%2B_DJANGO-5D3A2E?style=for-the-badge&amp;labelColor=3A2119&amp;color=B98B70">
+
+<img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-795548?style=for-the-badge&amp;labelColor=5D3A2E&amp;color=D7B49E">
+
+<br><br>
 
 <a href="https://github.com/reddysudhir0113">
-<img src="https://img.shields.io/badge/GITHUB-3B241C?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0">
+<img src="https://img.shields.io/badge/GITHUB-241510?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0">
 </a>
 
-</td>
-
-<td width="18"></td>
-
-<td align="center">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-<img src="https://img.shields.io/badge/LEETCODE-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
+<img src="https://img.shields.io/badge/LEETCODE-5D3A2E?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
 </a>
 
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,sqlite,mysql,git,github,linux&amp;perline=11">
 
@@ -38,40 +34,53 @@
 
 <br>
 
-<!-- ================= PROFILE ================= -->
+---
 
-<table width="100%">
+<div align="center">
+
+## About Me
+
+<br>
+
+<table width="92%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-<h2>About Me</h2>
+<h3>Hi, I'm Sudhir</h3>
 
 <p>
-I am an <strong>Engineering Student at PES Institute of Technology and Management, Shivamogga</strong>, interested in software development, backend engineering, and problem solving.
+I am an engineering student at
+<strong>PES Institute of Technology and Management, Shivamogga</strong>,
+focused on software development, backend engineering, and problem solving.
 </p>
 
 <p>
-My primary focus is <strong>Python and Django</strong>. I also work with JavaScript, React, SQL, and modern development tools while continuously improving my Data Structures and Algorithms skills.
+My primary focus is <strong>Python and Django</strong>. I also work with
+JavaScript, React, SQL, and modern development tools while continuously
+improving my Data Structures and Algorithms skills.
 </p>
 
 <p>
-I enjoy taking an idea, turning it into a working application, and learning something new from every project.
+I enjoy building practical applications, experimenting with new technologies,
+and turning ideas into working software.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/PRIMARY-PYTHON%20%7C%20DJANGO-6F4E37?style=flat-square">
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-795548?style=flat-square">
-<img src="https://img.shields.io/badge/PRACTICE-DSA-C19A7B?style=flat-square">
+<img src="https://img.shields.io/badge/CODE-241510?style=flat-square">
+
+<img src="https://img.shields.io/badge/BUILD-5D3A2E?style=flat-square">
+
+<img src="https://img.shields.io/badge/IMPROVE-795548?style=flat-square">
 
 </td>
 
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 <div align="center">
 
-<h2>Developer Card</h2>
+<h3>Developer Snapshot</h3>
 
 <br>
 
@@ -79,35 +88,45 @@ I enjoy taking an idea, turning it into a working application, and learning some
 
 <br><br>
 
+<table width="100%">
+
+<tr>
+<td align="center">
 <strong>Backend</strong>
+</td>
+<td>
+Python, Django, REST APIs
+</td>
+</tr>
 
-<br>
-
-Python · Django · REST APIs
-
-<br><br>
-
+<tr>
+<td align="center">
 <strong>Frontend</strong>
+</td>
+<td>
+JavaScript, React
+</td>
+</tr>
 
-<br>
-
-JavaScript · React
-
-<br><br>
-
+<tr>
+<td align="center">
 <strong>Database</strong>
+</td>
+<td>
+SQL, SQLite, MySQL
+</td>
+</tr>
 
-<br>
+<tr>
+<td align="center">
+<strong>Tools</strong>
+</td>
+<td>
+Git, GitHub, Linux
+</td>
+</tr>
 
-SQL · SQLite · MySQL
-
-<br><br>
-
-<strong>Environment</strong>
-
-<br>
-
-Linux · Git · GitHub
+</table>
 
 </div>
 
@@ -116,68 +135,85 @@ Linux · Git · GitHub
 </tr>
 </table>
 
+</div>
+
 <br>
 
-<!-- ================= TECH STACK ================= -->
+---
 
 <div align="center">
 
-<h2>Technology Stack</h2>
+## Technology Stack
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,sqlite,mysql,git,github,vscode,linux&amp;perline=12">
+
+<br><br>
+
 <table width="92%">
+
 <tr>
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp&amp;perline=4">
+<h3>Languages</h3>
 
-<br><br>
-
-<strong>Languages</strong>
-
-<br>
-
-Python · JavaScript · C · C++
+Python  
+JavaScript  
+C  
+C++
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=django,react,vite&amp;perline=3">
+<h3>Backend</h3>
 
-<br><br>
-
-<strong>Frameworks</strong>
-
-<br>
-
-Django · React · Vite
+Django  
+Django REST Framework  
+REST APIs
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql&amp;perline=2">
+<h3>Frontend</h3>
 
-<br><br>
-
-<strong>Databases</strong>
-
-<br>
-
-SQLite · MySQL · SQL
+React  
+HTML  
+CSS  
+JavaScript
 
 </td>
 
 <td align="center" width="25%">
+
+<h3>Database</h3>
+
+SQL  
+SQLite  
+MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width="65%">
+
+<tr>
+
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&amp;perline=4">
 
 <br><br>
 
-<strong>Tools</strong>
+<strong>Development Environment</strong>
 
 <br>
 
@@ -186,125 +222,114 @@ Git · GitHub · VS Code · Linux
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 <br>
 
-<!-- ================= PROJECTS ================= -->
+---
 
 <div align="center">
 
-<h2>Selected Projects</h2>
-
-<p>Things I have built while learning and experimenting.</p>
-
-</div>
+## Featured Projects
 
 <br>
+
+<p>
+A collection of applications built while learning, experimenting, and improving.
+</p>
+
+<br>
+
+</div>
 
 <table width="100%">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
-
-<h3>LeetCode Practice Platform</h3>
 
 <img src="https://skillicons.dev/icons?i=react,js,vite&amp;perline=3">
 
-<br><br>
+<h3>LeetCode Practice Platform</h3>
 
-</div>
-
-A focused frontend application for organizing LeetCode problems through topics, problem lists, and a structured roadmap.
-
-<br><br>
-
-<div align="center">
+<p>
+A focused platform for organizing LeetCode problems through topics and a structured roadmap.
+</p>
 
 <a href="https://reddysudhir0113.github.io/leetcode/">
-<img src="https://img.shields.io/badge/EXPLORE-6F4E37?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FFF8F0">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-5D3A2E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FFF8F0">
 </a>
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
-
-<h3>AI Document Management</h3>
 
 <img src="https://skillicons.dev/icons?i=python,django&amp;perline=2">
 
-<br><br>
+<h3>AI Document Management</h3>
 
-</div>
+<p>
+Document management system using OCR and AI-based classification to organize uploaded documents.
+</p>
 
-A document management system combining OCR and AI-based classification to process and organize uploaded documents.
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/Tesseract-795548?style=flat-square">
 
-<div align="center">
-
-<code>Tesseract OCR</code> <code>Gemini AI</code> <code>PyPDF2</code>
+<img src="https://img.shields.io/badge/Gemini-5D3A2E?style=flat-square">
 
 </div>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
-
-<h3>Trip Management System</h3>
 
 <img src="https://skillicons.dev/icons?i=python,django,sqlite&amp;perline=3">
 
-<br><br>
+<h3>Trip Management System</h3>
 
-</div>
+<p>
+Django application designed to manage trip information and related operations.
+</p>
 
-A Django application for managing trip information and related operations through a structured web interface.
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/Django-5D3A2E?style=flat-square&amp;logo=django&amp;logoColor=8BC34A">
 
-<div align="center">
-
-<code>Python</code> <code>Django</code> <code>SQLite</code>
+<img src="https://img.shields.io/badge/SQLite-795548?style=flat-square&amp;logo=sqlite&amp;logoColor=003B57">
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
-
-<h3>Budget Tracker</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js&amp;perline=3">
 
-<br><br>
+<h3>Budget Tracker</h3>
 
-</div>
+<p>
+Simple application for tracking expenses and maintaining a personal budget.
+</p>
 
-A lightweight application for tracking expenses and maintaining a simple personal budget.
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/HTML-5D3A2E?style=flat-square&amp;logo=html5&amp;logoColor=E34F26">
 
-<div align="center">
-
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<img src="https://img.shields.io/badge/CSS-795548?style=flat-square&amp;logo=css3&amp;logoColor=1572B6">
 
 </div>
 
@@ -316,115 +341,81 @@ A lightweight application for tracking expenses and maintaining a simple persona
 
 <br>
 
-<!-- ================= DEVELOPMENT ================= -->
+---
 
 <div align="center">
 
-<h2>Development Path</h2>
+## My Developer Journey
 
 <br>
 
-<table width="96%">
+<table width="92%">
 
 <tr>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="45">
+<img src="https://img.shields.io/badge/01-241510?style=for-the-badge">
 
 <br><br>
 
-<strong>Python</strong>
+<h3>Learn</h3>
 
-<br>
-
-Foundation
+Understand concepts
 
 </td>
 
 <td align="center">
-<strong>→</strong>
+
+<strong>• • •</strong>
+
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=django" width="45">
+<img src="https://img.shields.io/badge/02-3A2119?style=for-the-badge">
 
 <br><br>
 
-<strong>Django</strong>
+<h3>Build</h3>
 
-<br>
-
-Backend
+Create projects
 
 </td>
 
 <td align="center">
-<strong>→</strong>
+
+<strong>• • •</strong>
+
 </td>
 
 <td align="center">
 
-<strong>REST</strong>
+<img src="https://img.shields.io/badge/03-5D3A2E?style=for-the-badge">
 
 <br><br>
 
-APIs
+<h3>Break</h3>
 
-<br>
-
-Services
+Find problems
 
 </td>
 
 <td align="center">
-<strong>→</strong>
+
+<strong>• • •</strong>
+
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="45">
+<img src="https://img.shields.io/badge/04-795548?style=for-the-badge">
 
 <br><br>
 
-<strong>SQL</strong>
+<h3>Improve</h3>
 
-<br>
-
-Data
-
-</td>
-
-<td align="center">
-<strong>→</strong>
-</td>
-
-<td align="center">
-
-<strong>DSA</strong>
-
-<br><br>
-
-Logic
-
-<br>
-
-Problem Solving
-
-</td>
-
-<td align="center">
-<strong>→</strong>
-</td>
-
-<td align="center">
-
-<strong>Build</strong>
-
-<br><br>
-
-Real Projects
+Fix and build better
 
 </td>
 
@@ -436,105 +427,107 @@ Real Projects
 
 <br>
 
-<!-- ================= LEARNING ================= -->
+---
+
+<table width="92%" align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>Current Focus</h2>
+
+<br>
 
 <table width="100%">
+
 <tr>
+<td>
+<img src="https://skillicons.dev/icons?i=django" width="30">
+</td>
+<td>
+<strong>Django</strong>
+<br>
+Backend development
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="30">
+</td>
+<td>
+<strong>Python</strong>
+<br>
+Problem solving
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=react" width="30">
+</td>
+<td>
+<strong>React</strong>
+<br>
+Frontend development
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql" width="30">
+</td>
+<td>
+<strong>SQL</strong>
+<br>
+Database skills
+</td>
+</tr>
+
+</table>
+
+</td>
 
 <td width="50%" valign="top">
 
 <h2>Problem Solving</h2>
 
+<br>
+
 <p>
-I regularly practice programming problems to improve my fundamentals and technical thinking.
+I regularly practice programming problems to strengthen my fundamentals and improve my technical thinking.
 </p>
-
-<table width="100%">
-
-<tr>
-<td>Data Structures</td>
-<td align="right"><strong>Core</strong></td>
-</tr>
-
-<tr>
-<td>Algorithms</td>
-<td align="right"><strong>Core</strong></td>
-</tr>
-
-<tr>
-<td>Python</td>
-<td align="right"><strong>Primary</strong></td>
-</tr>
-
-<tr>
-<td>SQL</td>
-<td align="right"><strong>Working</strong></td>
-</tr>
-
-<tr>
-<td>Logical Thinking</td>
-<td align="right"><strong>Improving</strong></td>
-</tr>
-
-</table>
 
 <br>
 
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-5D3A2E?style=flat-square">
+
+<img src="https://img.shields.io/badge/ALGORITHMS-795548?style=flat-square">
+
+<img src="https://img.shields.io/badge/PYTHON-B98B70?style=flat-square">
+
+<img src="https://img.shields.io/badge/SQL-5D3A2E?style=flat-square">
+
+<br><br>
+
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-<img src="https://img.shields.io/badge/LEETCODE_PROFILE-6F4E37?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
+<img src="https://img.shields.io/badge/LEETCODE_PROFILE-5D3A2E?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
 </a>
 
 </td>
 
-<td width="50%" valign="top">
-
-<h2>Currently Learning</h2>
-
-<table width="100%">
-
-<tr>
-<td>Django REST Framework</td>
-<td align="right">Learning</td>
-</tr>
-
-<tr>
-<td>REST API Architecture</td>
-<td align="right">Learning</td>
-</tr>
-
-<tr>
-<td>Database Design</td>
-<td align="right">Improving</td>
-</tr>
-
-<tr>
-<td>Advanced Django</td>
-<td align="right">Exploring</td>
-</tr>
-
-<tr>
-<td>React Development</td>
-<td align="right">Improving</td>
 </tr>
 
 </table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=django,react,mysql&amp;perline=3">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ================= GOALS ================= -->
+---
 
 <div align="center">
 
-<h2>2026 Roadmap</h2>
+## 2026 Roadmap
 
 <br>
 
@@ -544,13 +537,13 @@ I regularly practice programming problems to improve my fundamentals and technic
 
 <td align="center">
 
-<strong>01</strong>
+<img src="https://img.shields.io/badge/01-3A2119?style=for-the-badge">
 
 <br><br>
 
 <strong>Master Django</strong>
 
-<br>
+<br><br>
 
 Build stronger backend foundations
 
@@ -558,13 +551,19 @@ Build stronger backend foundations
 
 <td align="center">
 
-<strong>02</strong>
+<strong>•••</strong>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/02-4A2C22?style=for-the-badge">
 
 <br><br>
 
-<strong>Build APIs</strong>
+<strong>Build Better APIs</strong>
 
-<br>
+<br><br>
 
 Learn REST architecture
 
@@ -572,27 +571,39 @@ Learn REST architecture
 
 <td align="center">
 
-<strong>03</strong>
-
-<br><br>
-
-<strong>Improve DSA</strong>
-
-<br>
-
-Become a better problem solver
+<strong>•••</strong>
 
 </td>
 
 <td align="center">
 
-<strong>04</strong>
+<img src="https://img.shields.io/badge/03-5D3A2E?style=for-the-badge">
+
+<br><br>
+
+<strong>Improve DSA</strong>
+
+<br><br>
+
+Solve problems consistently
+
+</td>
+
+<td align="center">
+
+<strong>•••</strong>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/04-795548?style=for-the-badge">
 
 <br><br>
 
 <strong>Build Projects</strong>
 
-<br>
+<br><br>
 
 Create practical applications
 
@@ -600,13 +611,19 @@ Create practical applications
 
 <td align="center">
 
-<strong>05</strong>
+<strong>•••</strong>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/05-B98B70?style=for-the-badge">
 
 <br><br>
 
 <strong>Start Career</strong>
 
-<br>
+<br><br>
 
 Begin my developer journey
 
@@ -620,22 +637,30 @@ Begin my developer journey
 
 <br>
 
-<!-- ================= FOOTER ================= -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:2B1B16,45:4E342E,75:795548,100:C9A58D&amp;height=120&amp;section=footer&amp;text=Learn%20.%20Build%20.%20Improve&amp;fontSize=25&amp;fontColor=FFF8F0" />
+<h2>Connect With Me</h2>
 
 <br>
 
 <a href="https://github.com/reddysudhir0113">
-GitHub
+<img src="https://img.shields.io/badge/GITHUB-241510?style=for-the-badge&amp;logo=github&amp;logoColor=FFF8F0">
 </a>
 
-  •  
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/sudhirreddy1301/">
-LeetCode
+<img src="https://img.shields.io/badge/LEETCODE-5D3A2E?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116">
 </a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:241510,35:3A2119,65:5D3A2E,100:B98B70&amp;height=150&amp;section=footer&amp;text=Learn%20.%20Build%20.%20Break%20.%20Improve&amp;fontSize=25&amp;fontColor=FFF8F0">
+
+<br>
+
+<sub>Building one project at a time.</sub>
 
 </div>
