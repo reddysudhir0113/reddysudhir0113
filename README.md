@@ -1,192 +1,300 @@
-Absolutely buddy 😎 Here’s a **complete profile README** tailored to you as an engineering student at PESITM, with your Python/Django focus, JavaScript, React, SQL, DSA, and projects.
+<div align="center">
 
-Just copy everything inside the block into your new `reddysudhir0113/README.md`.
+# Sudhir Reddy
 
-# 👋 Hey, I'm Sudhir Reddy
-
-### 💻 Engineering Student | Python & Django Developer | Problem Solver
-
-🎓 **Engineering Student at PES Institute of Technology and Management (PESITM), Shivamogga**
-
-I'm passionate about **backend development, web technologies, and problem solving**.
-Currently focused on building real-world applications using **Python, Django, JavaScript, and SQL** while continuously improving my DSA skills.
-
----
-
-## 🚀 About Me
-
-* 🎓 Engineering student at **PESITM, Shivamogga**
-* 🐍 Focused on **Python & Django**
-* 🌐 Comfortable with **HTML, CSS & JavaScript**
-* ⚛️ Learning and building with **React.js**
-* 🗄️ Working with **SQL & SQLite**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔧 Familiar with **Git & GitHub**
-* 🐧 Linux enthusiast
-* 💼 Open to **Fresher / Entry-Level Software Developer opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
+### Engineering Student | Python & Django Developer | Problem Solver
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+  Engineering Student at <b>PES Institute of Technology and Management (PESITM), Shivamogga</b>
 </p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,react" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🧩 LeetCode Practice Platform
-
-A web application created to organize and practice LeetCode problems with topics and a structured learning roadmap.
-
-**Tech Stack:** React.js • JavaScript • Vite
-
-🔗 [View Project](https://reddysudhir0113.github.io/leetcode/)
-
----
-
-### 📄 AI Document Management System
-
-A document management project that combines OCR and AI-based document classification to help organize and process uploaded documents.
-
-**Tech Stack:** Python • Django • Tesseract OCR • Gemini AI • PyPDF2
-
----
-
-### ✈️ Trip Management System
-
-A Django-based web application designed to manage trip-related information and provide a structured way to handle trip data.
-
-**Tech Stack:** Python • Django • SQLite • HTML • CSS • JavaScript
-
----
-
-### 💰 Budget Tracker
-
-A simple web application for tracking expenses and managing personal budgets.
-
-**Tech Stack:** JavaScript • HTML • CSS
-
----
-
-## 🧠 Problem Solving
-
-I regularly practice programming problems to improve my:
-
-* Data Structures
-* Algorithms
-* Logical Thinking
-* Problem Solving
-* SQL
-* Python Programming
-
-### 📈 Platforms
-
-<p>
-  <a href="https://leetcode.com/](https://leetcode.com/u/sudhirreddy1301/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📚 Currently Learning
-
-```text
-Python
-   ↓
-Django
-   ↓
-Django REST Framework
-   ↓
-REST APIs
-   ↓
-SQL & Databases
-   ↓
-DSA & Problem Solving
-   ↓
-Building Real-World Projects
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become a strong **Python/Django Developer**
-* 🧠 Improve DSA & problem-solving skills
-* 🌐 Build more real-world applications
-* 🔥 Learn advanced Django & REST APIs
-* ⚛️ Improve React.js skills
-* 💼 Get my first software development role
-* 📈 Keep contributing to GitHub
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddysudhir0113&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reddysudhir0113&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reddysudhir0113/reddysudhir0113/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
 
 <p>
   <a href="https://github.com/reddysudhir0113">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://leetcode.com/u/sudhirreddy1301/">
+    <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
 
+</div>
+
 ---
 
-## 💻 Coding Philosophy
+<div align="center">
 
-> **Learn → Build → Break → Fix → Repeat 🔥**
+## About Me
 
-### Thanks for visiting my profile! 👋
+</div>
 
-⭐ Feel free to explore my repositories and follow my journey as I grow as a developer.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### Profile
+
+Engineering student focused on software development, backend technologies, and problem solving.
+
+Currently building applications using Python, Django, JavaScript, and SQL while improving my Data Structures and Algorithms skills.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Focus
+
+- Python & Django
+- REST API Development
+- JavaScript & React
+- SQL & Databases
+- Data Structures & Algorithms
+- Git & GitHub
+- Linux
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=django,react" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### LeetCode Practice Platform
+
+A web application designed to organize and practice LeetCode problems through topics and a structured roadmap.
+
+**Technology**
+
+`React.js` `JavaScript` `Vite`
+
+<br>
+
+<a href="https://reddysudhir0113.github.io/leetcode/">
+View Project
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Document Management System
+
+A document management application combining OCR and AI-based document classification to organize and process uploaded documents.
+
+**Technology**
+
+`Python` `Django` `Tesseract OCR` `Gemini AI` `PyPDF2`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Trip Management System
+
+A Django-based application for managing trip-related information and operations.
+
+**Technology**
+
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Budget Tracker
+
+A simple web application for tracking expenses and managing personal budgets.
+
+**Technology**
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Problem Solving
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<b>Data Structures</b>
+
+</td>
+<td align="center">
+
+<b>Algorithms</b>
+
+</td>
+<td align="center">
+
+<b>Python</b>
+
+</td>
+<td align="center">
+
+<b>SQL</b>
+
+</td>
+<td align="center">
+
+<b>Logical Thinking</b>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sudhirreddy1301/">
+<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Currently Learning
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">Python</td>
+<td align="center">→</td>
+<td align="center">Django</td>
+<td align="center">→</td>
+<td align="center">Django REST Framework</td>
+<td align="center">→</td>
+<td align="center">REST APIs</td>
+</tr>
+
+<tr>
+<td align="center">SQL</td>
+<td align="center">→</td>
+<td align="center">Databases</td>
+<td align="center">→</td>
+<td align="center">DSA</td>
+<td align="center">→</td>
+<td align="center">Real-World Projects</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 2026 Goals
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+- Become a strong Python/Django developer
+- Improve Data Structures and Algorithms
+- Build production-oriented web applications
+- Strengthen Django REST API development
+- Improve React.js skills
+- Contribute more consistently to GitHub
+- Start my professional software development career
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GitHub Statistics
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reddysudhir0113&show_icons=true&theme=default&hide_border=true&title_color=18181B&icon_color=18181B&text_color=52525B" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113&layout=compact&theme=default&hide_border=true&title_color=18181B&text_color=52525B" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=reddysudhir0113&theme=default&hide_border=true&ring=18181B&fire=18181B&currStreakLabel=18181B" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Activity
+
+<img src="https://raw.githubusercontent.com/reddysudhir0113/reddysudhir0113/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
+
+<a href="https://github.com/reddysudhir0113">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/sudhirreddy1301/">
+<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learn. Build. Break. Fix. Repeat.
+
+</div>
