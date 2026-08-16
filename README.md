@@ -329,7 +329,7 @@ Real-World Projects
 ## GitHub Analytics
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113%26bg_color=F5E6D3%26color=4E342E%26line=8D6E63%26point=6F4E37%26area=true%26hide_border=true%26radius=20)
+
 
 </div>
 
