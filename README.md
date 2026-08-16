@@ -320,28 +320,7 @@ Real-World Projects
 
 ---
 
-<div align="center">
 
----
-
-<div align="center">
-
-## GitHub Analytics
-
-
-
-
-</div>
-
-## Contribution Activity
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113&amp;bg_color=F5E6D3&amp;color=4E342E&amp;line=8D6E63&amp;point=6F4E37&amp;area=true&amp;hide_border=true&amp;radius=20&amp;custom_title=Contribution%20Activity" />
-
-</div>
-
----
 
 <div align="center">
 
