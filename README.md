@@ -322,27 +322,27 @@ Real-World Projects
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ## GitHub Analytics
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reddysudhir0113&amp;show_icons=true&amp;hide_border=true&amp;title_color=6F4E37&amp;icon_color=A47551&amp;text_color=4E342E&amp;bg_color=F5E6D3&amp;border_radius=20" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddysudhir0113%26show_icons=true%26hide_border=true%26title_color=6F4E37%26icon_color=A47551%26text_color=4E342E%26bg_color=F5E6D3%26border_radius=20)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113&amp;layout=compact&amp;hide_border=true&amp;title_color=6F4E37&amp;text_color=4E342E&amp;bg_color=F5E6D3&amp;border_radius=20" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddysudhir0113%26layout=compact%26hide_border=true%26title_color=6F4E37%26text_color=4E342E%26bg_color=F5E6D3%26border_radius=20)
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=reddysudhir0113&amp;hide_border=true&amp;background=F5E6D3&amp;ring=8D6E63&amp;fire=A47551&amp;currStreakLabel=6F4E37&amp;sideLabels=4E342E&amp;currStreakNum=4E342E&amp;sideNums=4E342E&amp;dates=795548&amp;border_radius=20" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=reddysudhir0113%26hide_border=true%26background=F5E6D3%26ring=8D6E63%26fire=A47551%26currStreakLabel=6F4E37%26sideLabels=4E342E%26currStreakNum=4E342E%26sideNums=4E342E%26dates=795548%26border_radius=20)
 
-<br/><br/>
+<br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113&amp;bg_color=F5E6D3&amp;color=4E342E&amp;line=8D6E63&amp;point=6F4E37&amp;area=true&amp;hide_border=true&amp;radius=20" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddysudhir0113%26bg_color=F5E6D3%26color=4E342E%26line=8D6E63%26point=6F4E37%26area=true%26hide_border=true%26radius=20)
 
 </div>
-
----
-
-<div align="center">
 
 ## Contribution Activity
 
