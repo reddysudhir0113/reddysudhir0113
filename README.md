@@ -105,7 +105,7 @@ I regularly practice programming problems to improve my:
 ### 📈 Platforms
 
 <p>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/](https://leetcode.com/u/sudhirreddy1301/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
